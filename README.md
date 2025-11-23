@@ -1,4 +1,4 @@
-# 👑 Devil E2EE Facebook Bot
+# 👑 Ashu E2EE Facebook Bot
 
 Fully Automated Facebook E2EE Messenger Bot
 
@@ -50,4 +50,4 @@ Fully Automated Facebook E2EE Messenger Bot
 Use responsibly and in compliance with Facebook's Terms of Service.
 
 ---
-**Made with ❤️ by Dinesh Srivastav**
+**Made with ❤️ by Ashu**
